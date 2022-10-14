@@ -19,7 +19,7 @@ An example of a descriptive question is research by [Kinsey](https://en.wikipedi
 
 Descriptive research questions are answered through **estimation statistics**. The informational value of an estimation study is determined by the amount of observations (the more observations, the higher the **precision** of the estimates) and the sampling plan (the more representative the sample, the lower the **sample selection bias**, which increases the ability to generalize from the sample to the population), and the reliability of the measure. 
 
-Descriptive research questions are sometimes seen as less exciting than explanation or prediction questions [@gerring_mere_2012], but they are essential building block of theory formation [@scheel_why_2021]. Although estimation question often focus on the mean score of a measure, accurate estimates of the variance of a measure are extremely valuable as well. The variance of a measure is essential information in a well-informed sample size justification, both when planning for accuracy, as when performing an a-priori power analysis. 
+Descriptive research questions are sometimes seen as less exciting than explanation or prediction questions [@gerring_mere_2012], but they are an essential building block of theory formation [@scheel_why_2021]. Although estimation question often focus on the mean score of a measure, accurate estimates of the variance of a measure are extremely valuable as well. The variance of a measure is essential information in a well-informed sample size justification, both when planning for accuracy, as when performing an a-priori power analysis. 
 
 ## Prediction
 
